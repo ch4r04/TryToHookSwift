@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>09ED0D78-E8DC-4843-9230-CAC95987A3C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09ED0D78-E8DC-4843-9230-CAC95987A3C0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftTipWindows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftTipWindows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftTipWindows</string>
+			<key>timeStartedRecording</key>
+			<real>581617760.54565895</real>
+			<key>timeStoppedRecording</key>
+			<real>581617786.44302702</real>
+			<key>title</key>
+			<string>Build SwiftTipWindows</string>
+			<key>uniqueIdentifier</key>
+			<string>09ED0D78-E8DC-4843-9230-CAC95987A3C0</string>
+		</dict>
+		<key>41341E44-DE7D-49D5-9578-48B537DAA513</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41341E44-DE7D-49D5-9578-48B537DAA513.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftTipWindows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftTipWindows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftTipWindows</string>
+			<key>timeStartedRecording</key>
+			<real>581613006.72265506</real>
+			<key>timeStoppedRecording</key>
+			<real>581613016.03165698</real>
+			<key>title</key>
+			<string>Build SwiftTipWindows</string>
+			<key>uniqueIdentifier</key>
+			<string>41341E44-DE7D-49D5-9578-48B537DAA513</string>
+		</dict>
+		<key>4618665C-3BD4-4CDD-B33C-FBCDF33519AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4618665C-3BD4-4CDD-B33C-FBCDF33519AF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftTipWindows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftTipWindows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftTipWindows</string>
+			<key>timeStartedRecording</key>
+			<real>581612661.36924696</real>
+			<key>timeStoppedRecording</key>
+			<real>581612680.20533001</real>
+			<key>title</key>
+			<string>Build SwiftTipWindows</string>
+			<key>uniqueIdentifier</key>
+			<string>4618665C-3BD4-4CDD-B33C-FBCDF33519AF</string>
+		</dict>
+		<key>68519B99-668B-4E1E-AD06-DCBE6BD40927</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68519B99-668B-4E1E-AD06-DCBE6BD40927.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftTipWindows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftTipWindows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean SwiftTipWindows</string>
+			<key>timeStartedRecording</key>
+			<real>581613050.35514605</real>
+			<key>timeStoppedRecording</key>
+			<real>581613050.49245095</real>
+			<key>title</key>
+			<string>Clean SwiftTipWindows</string>
+			<key>uniqueIdentifier</key>
+			<string>68519B99-668B-4E1E-AD06-DCBE6BD40927</string>
+		</dict>
+		<key>8A8C0675-44C3-4FFF-B4BD-C053DE14DE48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A8C0675-44C3-4FFF-B4BD-C053DE14DE48.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftTipWindows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftTipWindows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftTipWindows</string>
+			<key>timeStartedRecording</key>
+			<real>581613033.25496602</real>
+			<key>timeStoppedRecording</key>
+			<real>581613033.37171102</real>
+			<key>title</key>
+			<string>Build SwiftTipWindows</string>
+			<key>uniqueIdentifier</key>
+			<string>8A8C0675-44C3-4FFF-B4BD-C053DE14DE48</string>
+		</dict>
+		<key>BD09AF68-F53B-45D4-903D-D46D4F29320C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD09AF68-F53B-45D4-903D-D46D4F29320C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftTipWindows project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftTipWindows</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftTipWindows</string>
+			<key>timeStartedRecording</key>
+			<real>581613066.83972394</real>
+			<key>timeStoppedRecording</key>
+			<real>581613082.39199603</real>
+			<key>title</key>
+			<string>Build SwiftTipWindows</string>
+			<key>uniqueIdentifier</key>
+			<string>BD09AF68-F53B-45D4-903D-D46D4F29320C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

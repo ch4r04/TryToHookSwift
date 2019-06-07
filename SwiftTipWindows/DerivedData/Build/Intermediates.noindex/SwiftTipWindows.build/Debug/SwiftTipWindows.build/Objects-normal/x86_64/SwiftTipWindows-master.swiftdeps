@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "3b1d3f56cc850de9b39f3c847f81c001"
+build_time: [1559924960, 971467000]
+inputs:
+  "/Users/ch4r0n/Desktop/MacOSReserver/TryToHookSwift/SwiftTipWindows/SwiftTipWindows/ViewController.swift": [1559919861, 0]
+  "/Users/ch4r0n/Desktop/MacOSReserver/TryToHookSwift/SwiftTipWindows/SwiftTipWindows/AppDelegate.swift": [1559657717, 0]

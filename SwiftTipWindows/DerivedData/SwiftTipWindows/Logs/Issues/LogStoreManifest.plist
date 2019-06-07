@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>DACDA5C7-2911-45A4-8F69-763C5B1F8545</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>DACDA5C7-2911-45A4-8F69-763C5B1F8545.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>SwiftTipWindows-ffxyiitmmyswvnchnphkkjlozssl</string>
+			<key>timeStartedRecording</key>
+			<real>581617760.92214704</real>
+			<key>timeStoppedRecording</key>
+			<real>581617786.43561196</real>
+			<key>title</key>
+			<string>Build target SwiftTipWindows</string>
+			<key>uniqueIdentifier</key>
+			<string>DACDA5C7-2911-45A4-8F69-763C5B1F8545</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

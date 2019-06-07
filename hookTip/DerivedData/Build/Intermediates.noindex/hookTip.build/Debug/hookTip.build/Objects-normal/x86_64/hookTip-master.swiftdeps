@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "3b37c9526762229df0a2a926b4434bf2"
+build_time: [1559925021, 615512000]
+inputs:
+  "/Users/ch4r0n/Desktop/MacOSReserver/TryToHookSwift/hookTip/hookTip/SwiftFoundation.swift": [1559924035, 0]
